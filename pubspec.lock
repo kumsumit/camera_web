@@ -22,7 +22,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "87c04148cee2cd60d23a52083f968a19bb3d4b33"
+      resolved-ref: f3e362097a47ea57a30247ba755da7d0c90e5600
       url: "https://github.com/kumsumit/camera_platform_interface.git"
     source: git
     version: "2.8.0"
@@ -227,10 +227,10 @@ packages:
     dependency: "direct main"
     description:
       name: web
-      sha256: cd3543bd5798f6ad290ea73d210f423502e71900302dde696f8bff84bf89a1cb
+      sha256: "868d88a33d8a87b18ffc05f9f030ba328ffefba92d6c127917a2ba740f9cfe4a"
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.0"
+    version: "1.1.1"
 sdks:
   dart: ">=3.7.0-0 <4.0.0"
   flutter: ">=3.22.0"

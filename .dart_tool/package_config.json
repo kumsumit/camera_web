@@ -15,7 +15,7 @@
     },
     {
       "name": "camera_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/camera_platform_interface-87c04148cee2cd60d23a52083f968a19bb3d4b33/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/camera_platform_interface-f3e362097a47ea57a30247ba755da7d0c90e5600/",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -177,7 +177,7 @@
     },
     {
       "name": "web",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/web-1.1.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/web-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -188,10 +188,10 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2025-02-17T14:05:08.413808Z",
+  "generated": "2025-03-16T12:40:19.384136Z",
   "generator": "pub",
-  "generatorVersion": "3.7.0",
+  "generatorVersion": "3.7.2",
   "flutterRoot": "file:///home/sumit/softwares/flutter",
-  "flutterVersion": "3.29.0",
+  "flutterVersion": "3.29.2",
   "pubCache": "file:///home/sumit/.pub-cache"
 }
